@@ -1,0 +1,35 @@
+
+
+.dotcircle-left{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: black;
+    position: absolute;
+    bottom: -10px;
+    left: -10px;
+}
+
+.dotcircle-right{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: black;
+    position: absolute;
+    bottom: -10px;
+    right: -10px;
+}
+
+.star-icon{
+    width: 25px;
+    height: 25px;
+    color: #C4C4C4;
+}
+
+
+.btn{
+    width: 100%;
+    border-radius: 10px;
+    background-color: #1B79FF;
+    padding: 11px 0px;
+}

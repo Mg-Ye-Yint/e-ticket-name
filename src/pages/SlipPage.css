@@ -1,0 +1,71 @@
+.phone-logo{
+    width: 12.96px;
+    height: 12.96px;
+    color: black;
+    
+}
+
+.dotcircle-left{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: black;
+    position: absolute;
+    bottom: -10px;
+    left: 0px;
+}
+
+.dotcircle-right{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: black;
+    position: absolute;
+    bottom: -10px;
+    right: 0px;
+}
+
+.qr-code{
+    height: 200px;
+    width: 200px;
+}
+
+.transactions{
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    width: 84px;
+    height: 24px;
+    color: black;
+    font-size: 14px;
+    background-color: #ECECEC;
+    border-radius: 10px;
+    padding: 2px 11px 2px 11px;
+}
+
+.transaction-text{
+    font-size: 14px;
+    font-weight: 400;
+    color:  #444444;
+    margin-bottom: 0px;
+}
+/* 
+.dotcircle-two-left{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: rgb(251, 255, 0);
+    position: absolute;
+    left: px;
+}
+
+.dotcircle-two-right{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: black;
+    position: relative;
+    bottom: -365px;
+    right: 25px;
+} */
